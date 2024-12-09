@@ -1,0 +1,68 @@
+{
+    "1": {
+        "id": "674ada303d278",
+        "nama": "Cheetos",
+        "harga": "1850",
+        "stok": 199
+    },
+    "2": {
+        "id": "674ae567d1d26",
+        "nama": "Nutriboost",
+        "harga": "7500",
+        "stok": "190"
+    },
+    "4": {
+        "id": "6756743803186",
+        "nama": "Chitato",
+        "harga": "2000",
+        "stok": "100"
+    },
+    "5": {
+        "id": "67568594ed4a3",
+        "nama": "Jaguar",
+        "harga": "1900",
+        "stok": "50"
+    },
+    "6": {
+        "id": "6756864125942",
+        "nama": "Milku",
+        "harga": "2800",
+        "stok": "200"
+    },
+    "7": {
+        "id": "675688c52f73c",
+        "nama": "Mizone",
+        "harga": "6520",
+        "stok": "1000"
+    },
+    "8": {
+        "id": "675688df3bb56",
+        "nama": "Teh Pucuk",
+        "harga": "3250",
+        "stok": "500"
+    },
+    "9": {
+        "id": "67568901ea4f0",
+        "nama": "Nabati Keju",
+        "harga": "1900",
+        "stok": "1500"
+    },
+    "10": {
+        "id": "675689163af17",
+        "nama": "Taro",
+        "harga": "2100",
+        "stok": "550"
+    },
+    "11": {
+        "id": "6756892f14b7a",
+        "nama": "Rinso ",
+        "harga": "910",
+        "stok": "1900"
+    },
+    "12": {
+        "id": "6756894b5cd3c",
+        "nama": "Wipol",
+        "harga": "840",
+        "stok": "900"
+    }
+}
